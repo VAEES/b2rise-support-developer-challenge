@@ -1,6 +1,6 @@
-# b2rise-mid-level-developer-challenge
+# b2rise-support-developer-challenge
 
-# Teste Prático para Desenvolvedor Pleno de Suporte Nível 3
+# Teste Prático para Desenvolvedor de Suporte
 ### Duração: 1 hora
 
 ## Questão 1: CRUD Básico com Node.js e TypeScript
